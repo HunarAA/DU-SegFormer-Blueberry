@@ -2,7 +2,7 @@
 
 Code, fixed data splits, and result files for the paper
 
-> **Learned Dynamic Upsampling for Lightweight Blueberry Segmentation under Calibrated Training and Leakage-Aware Evaluation**
+> **Learned Dynamic Upsampling for Lightweight Blueberry Segmentation with Bias-Corrected Training and Leakage-Aware Evaluation**
 > Hunar Abubakir Ahmed, University of Raparin (manuscript under review)
 
 DU-SegFormer is a SegFormer-B0 variant whose 64-channel decoder replaces bilinear upsampling with

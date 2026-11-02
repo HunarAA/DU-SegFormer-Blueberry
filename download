@@ -1,0 +1,9 @@
+# dataset (download from Figshare, see README)
+DB-1/
+# checkpoints and training state (pretrained models go to GitHub Releases)
+runs/
+*.pt
+*.pt.tmp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
